@@ -16,6 +16,3 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrUnic0rn0&hide_border=true" />
 </p>
 
-<p align="center" >
-  <img src="https://novatorem-mrunic0rn0.vercel.app/api/spotify" height="150px"/>
-</p>
