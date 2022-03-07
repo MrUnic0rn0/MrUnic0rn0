@@ -17,5 +17,5 @@
 </p>
 
 <p align="center" >
-  <img src="https://novatorem-mrunic0rn0.vercel.app/api/spotify/?theme=light" height="150px"/>
+  <img src="https://novatorem-mrunic0rn0.vercel.app/api/spotify" height="150px"/>
 </p>
