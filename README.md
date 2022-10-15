@@ -1,6 +1,6 @@
 <img src="images/banner.svg"></img>
 
-# Hi, I'am Florian Giacinti :fr: 
+# Hi, I'am Florian :fr: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/florian-giacinti-8b9684194/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:f.giacinti@outlook.com)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/244853581994393600)
