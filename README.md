@@ -14,5 +14,4 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MrUnic0rn0&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrUnic0rn0&hide_border=true&theme=tokyonight" />
-  <img src="https://novatorem-mrunic0rn0.vercel.app/api/spotify/?background_color=1A1B27&border_color=1A1B27" height="150px"/>
 </p>
